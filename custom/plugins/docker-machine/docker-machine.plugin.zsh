@@ -1,1 +1,5 @@
-eval "$(docker-machine env dev)"
+# Docker Machine
+
+dm() {
+  eval "$(docker-machine env $1)"
+}
