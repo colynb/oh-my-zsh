@@ -1,0 +1,39 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Behat",
+		"Blade Snippets",
+		"Colorsublime",
+		"DocBlockr",
+		"EditorConfig",
+		"EJS",
+		"Glue",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JavaScript & NodeJS Snippets",
+		"JsFormat",
+		"JSX",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"MacTerminal",
+		"MarkdownLight",
+		"Material Theme",
+		"Oceanic Color Scheme",
+		"Package Control",
+		"PackageResourceViewer",
+		"phpfmt",
+		"ReactJS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"Theme - Arzy",
+		"Theme - Glacier",
+		"Theme - Spacegray",
+		"Twig"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"autocomplete": false,
+	"autoimport": true,
+	"enable_auto_align": false,
+	"format_on_save": true,
+	"indent_with_space": true,
+	"passes":
+	[
+		"AutoPreincrement",
+		"ReindentSwitchBlocks"
+	],
+	"php_bin": "/usr/local/bin/php",
+	"psr1": false,
+	"psr1_naming": false,
+	"psr2": true,
+	"version": 4,
+	"visibility_order": true,
+	"yoda": false
+}
