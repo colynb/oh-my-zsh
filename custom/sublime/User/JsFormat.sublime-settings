@@ -1,0 +1,7 @@
+{
+  // jsformat options
+  "format_on_save": false,
+  "format_selection": true,
+  "jsbeautifyrc_files": true,
+  "ignore_sublime_settings": true
+}

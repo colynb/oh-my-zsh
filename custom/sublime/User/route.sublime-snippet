@@ -1,0 +1,13 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+'[${1:GET}] ${2:/route/path}' => function () {
+
+        },
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>route</tabTrigger>
+  <description>Create route</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic, source.php.embedded.block.html, string.quoted.single.php, punctuation.definition.string.begin.php</scope>
+</snippet>
