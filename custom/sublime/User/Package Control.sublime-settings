@@ -1,9 +1,11 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"AdvancedNewFile",
 		"Behat",
 		"Blade Snippets",
@@ -31,10 +33,13 @@
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Syntax Highlighting for Sass",
 		"Theme - Arzy",
 		"Theme - Glacier",
 		"Theme - Spacegray",
-		"Twig"
+		"Twig",
+		"Vue Syntax Highlight"
 	]
 }
