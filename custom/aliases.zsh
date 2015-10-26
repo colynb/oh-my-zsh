@@ -5,5 +5,6 @@ alias investability="cd ~/docker-sites/sites/investability.local/www"
 alias s="subl ."
 alias art="php artisan"
 alias dm="docker-machine"
+alias proj="cd ~/Projects/docker/sites"
 
 # Docker Machine
