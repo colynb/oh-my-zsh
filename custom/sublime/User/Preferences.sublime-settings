@@ -16,16 +16,24 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 17,
+	"font_size": 20,
 	"gutter": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"index_exclude_patterns":
+	[
+		"/Users/colyn/Projects/docker/sites/realtycrunch.dev/www/public/vendor*",
+		"*.log",
+		"/Users/colyn/Projects/docker/sites/realtycrunch.dev/www/public/css*",
+		"/Users/colyn/Projects/docker/sites/realtycrunch.dev/www/public/js*"
+	],
 	"line_numbers": true,
 	"line_padding_bottom": 4,
 	"line_padding_top": 3,
 	"margin": 0,
+	"material_theme_contrast_mode": true,
 	"overlay_scroll_bars": "enabled",
 	"remember_full_screen": false,
 	"show_full_path": true,
