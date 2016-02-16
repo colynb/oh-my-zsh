@@ -16,7 +16,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 20,
+	"font_size": 16,
 	"gutter": true,
 	"ignored_packages":
 	[
